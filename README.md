@@ -86,17 +86,11 @@ This is the end for part2 of Documentation
 ## Graphs
 
 # Part 1
-We can conclude that the dataset for "cases_malaysia_train.csv" is not perfect. We can see that there is some gaps.\n
 ![image](https://user-images.githubusercontent.com/82282919/211267724-361a23bd-1ea9-40d2-9de7-9110d06931e4.png)
-
-Using interpolation method, the gap has been filled.\n
 ![image](https://user-images.githubusercontent.com/82282919/211267773-d80b6509-63ef-42d8-8ad2-54c6ff33e1e2.png)\n
 
 # Part 2
-We can conclude that the dataset for "cases_malaysia_test.csv" is not perfect. We can see that there is some gaps.\n
 ![image](https://user-images.githubusercontent.com/82282919/211268170-2f7862b2-06ff-448c-b925-87b716980a7a.png)
-
-Using interpolation method, the gap has been filled.\n
 ![image](https://user-images.githubusercontent.com/82282919/211268195-aab657dd-3081-4960-9413-9c95e85b6626.png)
 
 # Predict Values VS True Values
