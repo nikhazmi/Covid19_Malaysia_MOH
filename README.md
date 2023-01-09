@@ -87,15 +87,17 @@ This is the end for part2 of Documentation
 
 # Part 1
 We can conclude that the dataset for "cases_malaysia_train.csv" is not perfect. We can see that there is some gaps.\n
-![image](https://user-images.githubusercontent.com/82282919/211267724-361a23bd-1ea9-40d2-9de7-9110d06931e4.png)\n
+![image](https://user-images.githubusercontent.com/82282919/211267724-361a23bd-1ea9-40d2-9de7-9110d06931e4.png)
+
 Using interpolation method, the gap has been filled.\n
 ![image](https://user-images.githubusercontent.com/82282919/211267773-d80b6509-63ef-42d8-8ad2-54c6ff33e1e2.png)\n
 
 # Part 2
 We can conclude that the dataset for "cases_malaysia_test.csv" is not perfect. We can see that there is some gaps.\n
-![image](https://user-images.githubusercontent.com/82282919/211268170-2f7862b2-06ff-448c-b925-87b716980a7a.png)\n
+![image](https://user-images.githubusercontent.com/82282919/211268170-2f7862b2-06ff-448c-b925-87b716980a7a.png)
+
 Using interpolation method, the gap has been filled.\n
-![image](https://user-images.githubusercontent.com/82282919/211268195-aab657dd-3081-4960-9413-9c95e85b6626.png)\n
+![image](https://user-images.githubusercontent.com/82282919/211268195-aab657dd-3081-4960-9413-9c95e85b6626.png)
 
 # Predict Values VS True Values
 ![Predict VS True](https://user-images.githubusercontent.com/82282919/211268460-23e35bb5-e052-455c-9bca-374c80c1ce9b.png)
@@ -104,6 +106,6 @@ Using interpolation method, the gap has been filled.\n
 ![model](https://user-images.githubusercontent.com/82282919/211268745-eaa8ed64-d8cc-4c37-9f7d-d9fa9de07371.png)
 
 
-Acknowledgement
+##Acknowledgement
 Thank you to the Ministry Of Health (MOH) for providing the COVID-19 case data used in this project. Without their ongoing efforts to track and report on the pandemic, this project would not have been possible. We are grateful for their dedication to improving global health and their willingness to share their data with the public.
 https://github.com/MoH-Malaysia/covid19-public
