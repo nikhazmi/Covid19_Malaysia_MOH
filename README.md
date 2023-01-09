@@ -20,7 +20,7 @@ DATA DOCUMENTATION PART 1.
     2. This is where we do data inspection. Data inspection will be checking the data using head(), tail(), info() and describe()
 
     3. Data cleaning 
-        After we identify the suspect that cause the dataset is not complete, we then proceed with data cleaning.\n
+        After we identify the suspect that cause the dataset is not complete, we then proceed with data cleaning.
         Checking the graph we found out that ther is some gap.
 
         3.1 Replacing all the Not A Number (NAN) to numeric using interpolation approach.
@@ -45,38 +45,38 @@ This is the end for part1 of Documentation
 
 DATA DOCUMENTATION PART 2.
 
-    7. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_test.csv" file.\n
+    7. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_test.csv" file.
 
         7.1. This is where we do data inspection. Data inspection will be checking the data using head(), tail(), info() and describe()
         7.2. Data cleaning 
             After we identify the suspect that cause the dataset is not complete, we then proceed with data cleaning.
             Checking the graph we found out that ther is some gap.
         7.3 Replacing all the Not A Number (NAN) to numeric using interpolation approach.
-        7.4 Check the graph and make sure the graph has complete data.\n
+        7.4 Check the graph and make sure the graph has complete data.
 
     8. Concat
-        Change both of the datsets to DataFrame type for easy concatenation\n
+        Change both of the datsets to DataFrame type for easy concatenation.
 
-        8.1 Concat both datasets which "cases_malaysia_train.csv" and "cases_malaysia_test.csv"\n
+        8.1 Concat both datasets which "cases_malaysia_train.csv" and "cases_malaysia_test.csv"
 
     9. Data Preprocessing
-        using MinMaxScaler to scale our features\n
+        using MinMaxScaler to scale our features
 
     10. Create an empty list for X and y with using win_size from PART1 of coding.
-        10.1 Predict new cases.\n
+        10.1 Predict new cases.
 
     11. Visualisation
         11.1 Set red and blue line for for prediction values and true values.
-        11.2 Label X and y axis.\n
+        11.2 Label X and y axis.
 
     12. Print errors
-        Print mape and mse.\n
+        Print mape and mse.
 
     13. Architecture Model
-        Save the LSTM model architecture.\n
+        Save the LSTM model architecture.
 
     14. Model Analysis
-        Predict X_test\n
+        Predict X_test
 
         14.1 Make performance of the model and the reports
         14.2 Display the reports
