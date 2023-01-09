@@ -86,12 +86,12 @@ This is the end for part2 of Documentation
 ## Graphs
 
 # Part 1
-![image](https://user-images.githubusercontent.com/82282919/211267724-361a23bd-1ea9-40d2-9de7-9110d06931e4.png)
-![image](https://user-images.githubusercontent.com/82282919/211267773-d80b6509-63ef-42d8-8ad2-54c6ff33e1e2.png)
+![Incomplete graph 1](https://user-images.githubusercontent.com/82282919/211273268-347a3f76-8d89-4300-9143-a81d4930e37d.png)
+![Complete graph 1](https://user-images.githubusercontent.com/82282919/211273037-4e398a9e-545d-4680-b095-b8a31b5d6aef.png)
 
 # Part 2
-![image](https://user-images.githubusercontent.com/82282919/211268170-2f7862b2-06ff-448c-b925-87b716980a7a.png)
-![image](https://user-images.githubusercontent.com/82282919/211268195-aab657dd-3081-4960-9413-9c95e85b6626.png)
+![Incomplete graph 2](https://user-images.githubusercontent.com/82282919/211273189-654fa694-b98e-4838-b34d-0dc4883fcc8f.png)
+![Complete graph 2](https://user-images.githubusercontent.com/82282919/211273212-f8ff47a5-0725-4a04-a2c2-2ff25cdb9457.png)
 
 # Predict Values VS True Values
 ![Predict VS True](https://user-images.githubusercontent.com/82282919/211268460-23e35bb5-e052-455c-9bca-374c80c1ce9b.png)
