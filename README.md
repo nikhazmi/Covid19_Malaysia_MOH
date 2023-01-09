@@ -97,7 +97,7 @@ This is the end for part2 of Documentation
 ![Predict VS True](https://user-images.githubusercontent.com/82282919/211268460-23e35bb5-e052-455c-9bca-374c80c1ce9b.png)
 
 # Architecture of the Model
-![model](https://user-images.githubusercontent.com/82282919/211268745-eaa8ed64-d8cc-4c37-9f7d-d9fa9de07371.png)
+![Predict VS True](https://user-images.githubusercontent.com/82282919/211273815-76fd3672-156d-4d57-82ee-7e4ce55e156c.png)
 
 
 ## Acknowledgement
