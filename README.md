@@ -15,27 +15,27 @@ In this code there will be 2 sections, where 1st part is loading the data from "
 
 DATA DOCUMENTATION PART 1.
 
-    1. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_train.csv" file.\n
+    1. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_train.csv" file.
 
-    2. This is where we do data inspection. Data inspection will be checking the data using head(), tail(), info() and describe()\n
+    2. This is where we do data inspection. Data inspection will be checking the data using head(), tail(), info() and describe()
 
     3. Data cleaning 
         After we identify the suspect that cause the dataset is not complete, we then proceed with data cleaning.\n
-        Checking the graph we found out that ther is some gap.\n
+        Checking the graph we found out that ther is some gap.
 
         3.1 Replacing all the Not A Number (NAN) to numeric using interpolation approach.
-        3.2 Check the graph and make sure the graph has complete data.\n
+        3.2 Check the graph and make sure the graph has complete data.
 
     4. Features Selection
-        this is where we use cases_new as our selection for prediction. \n\
+        this is where we use cases_new as our selection for prediction. 
 
     5. Data Preprocessing
-        using MinMaxScaler to scale our features\n
+        using MinMaxScaler to scale our features
 
         5.1 Create an empty list for X and y with a win_size  = 30
-        5.2 We then train test split the datasets for model development\n
+        5.2 We then train test split the datasets for model development
 
-    6. Model Development \n
+    6. Model Development 
 
         6.1 Creat a Tensorboard function for further analysis.
         6.2 Create the model using LSTM layers of = 64, and a Dropout at  = 0.3. End the model with an output of 1 with an activation of Relu
