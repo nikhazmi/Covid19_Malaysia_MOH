@@ -13,7 +13,7 @@ This project aims to use a Long Short-Term Memory (LSTM) neural network to predi
 
 In this code there will be 2 sections, where 1st part is loading the data from "cases_malaysia_train.csv" while 2nd part of the code is loading the data from "cases_malaysia_test.csv".
 
-DATA DOCUMENTATION PART 1 (Explanation for each section number)\n
+DATA DOCUMENTATION PART 1.
 
     1. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_train.csv" file.\n
 
@@ -43,7 +43,7 @@ DATA DOCUMENTATION PART 1 (Explanation for each section number)\n
 
 This is the end for part1 of Documentation
 
-DATA DOCUMENTATION PART 2 (Explanation for each section number).\n
+DATA DOCUMENTATION PART 2.
 
     7. This is where we loading the data from Datasets folder. For this 1st part of the coding, we will be using the "cases_malaysia_test.csv" file.\n
 
