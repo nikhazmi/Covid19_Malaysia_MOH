@@ -1,4 +1,4 @@
-# LSTM Model for Predicting COVID-19 Cases in Malaysia
+## LSTM Model for Predicting COVID-19 Cases in Malaysia
 This project aims to use a Long Short-Term Memory (LSTM) neural network to predict the number of new COVID-19 cases in Malaysia. The model is trained on a dataset of daily cases from January 2020 to the present day.
 
 # Badges
@@ -13,6 +13,7 @@ This project aims to use a Long Short-Term Memory (LSTM) neural network to predi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+## Documentation
 In this code there will be 2 sections, where 1st part is loading the data from "cases_malaysia_train.csv" while 2nd part of the code is loading the data from "cases_malaysia_test.csv".
 
 DATA DOCUMENTATION PART 1.
